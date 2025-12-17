@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/nathancluu/DS-2002/Projects/Project%202/spark-warehouse/sakila_dlh.db/fact_rentals/bronze/part-00000-9aeec6f4-950b-4f26-8d4f-4f74f3c226ce-c000.snappy.parquet","timestamp":1766008933769,"batchId":0}
+{"path":"file:///Users/nathancluu/DS-2002/Projects/Project%202/spark-warehouse/sakila_dlh.db/fact_rentals/bronze/part-00000-2b842ec4-da39-4bdb-8850-c1efa6cc4150-c000.snappy.parquet","timestamp":1766008934019,"batchId":0}
+{"path":"file:///Users/nathancluu/DS-2002/Projects/Project%202/spark-warehouse/sakila_dlh.db/fact_rentals/bronze/part-00000-b3656f97-2313-492e-a55e-b1c7c8b2c3c8-c000.snappy.parquet","timestamp":1766008934232,"batchId":0}

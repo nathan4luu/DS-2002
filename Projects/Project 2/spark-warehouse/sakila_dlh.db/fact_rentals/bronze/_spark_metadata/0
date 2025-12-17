@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/nathancluu/DS-2002/Projects/Project%202/spark-warehouse/sakila_dlh.db/fact_rentals/bronze/part-00000-9aeec6f4-950b-4f26-8d4f-4f74f3c226ce-c000.snappy.parquet","size":12584,"isDir":false,"modificationTime":1766008933769,"blockReplication":1,"blockSize":33554432,"action":"add"}
